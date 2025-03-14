@@ -1,7 +1,7 @@
 selected_region = "eu-north-1"
 
 az_zones = [
-  "eu-north-1a, eu-north-1b"
+  "eu-north-1a", "eu-north-1b"
 ]
 
 backend_instance_type = {
